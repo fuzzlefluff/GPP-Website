@@ -5,6 +5,6 @@ It's really just some HTML markup
 
 see the live version here: https://www.gridpowerproducts.com
 
-All rights reserved GPP Solutions & Matthew Prindle respectivley (2022)
+All rights reserved GPP Solutions & Matthew Prindle respectivley (2023)
 
 ![[Preview](https://www.gridpowerproducts.com)](img/gppWebSite.png)
