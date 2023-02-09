@@ -7,4 +7,4 @@ see the live version here: https://www.gridpowerproducts.com
 
 All rights reserved GPP Solutions & Matthew Prindle respectivley (2022)
 
-![Preview](GPP-Website/img/gppWebSite.png)
+![Preview](img/gppWebSite.png)
